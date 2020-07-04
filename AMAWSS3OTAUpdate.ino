@@ -12,8 +12,8 @@ WiFiClient client;
 #define HILETGO
 
 // *** Your SSID and PWD that the sensor board needs to connect to ***/
-const char* SSID = "HOME-D55B-2.4";
-const char* PWD = "fancy7520entire";
+const char* SSID = "xxx";
+const char* PWD = "yyy";
 
 // AMSensor S3 Bucket Config
 String host = "http://amsensorota.s3-website-us-west-2.amazonaws.com";  // Host => bucket-name.s3.region.amazonaws.com
